@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{e9b2b8c8-28b3-4eff-986f-98a1b2cd3417}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\main.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\camera.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\myMath.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ship.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\input.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\arena.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\asteroids.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\explosions.c">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\main.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\camera.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\myMath.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ship.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\input.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\arena.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\asteroids.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\explosions.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

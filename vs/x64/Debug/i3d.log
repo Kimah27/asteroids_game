@@ -1,0 +1,5 @@
+﻿  main.c
+D:\Users\Matt\Documents\UNI STUFF\BACH S4\I3D A2 SUBMISSION\s3685738 A2-1\src\main.c(41,31): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+D:\Users\Matt\Documents\UNI STUFF\BACH S4\I3D A2 SUBMISSION\s3685738 A2-1\src\main.c(42,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+D:\Users\Matt\Documents\UNI STUFF\BACH S4\I3D A2 SUBMISSION\s3685738 A2-1\src\main.c(47,23): warning C4013: 'glutMouseWheelFunc' undefined; assuming extern returning int
+  i3d.vcxproj -> D:\Users\Matt\Documents\UNI STUFF\BACH S4\I3D A2 SUBMISSION\s3685738 A2-1\a264dbg.exe
